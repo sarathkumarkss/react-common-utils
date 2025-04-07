@@ -7,6 +7,6 @@
     "node-forge": "^1.3.1"
   },
   "scripts": {
-    "start": "node encryptDecrypt.js"
+    "start": "node index.js"
   }
 }
